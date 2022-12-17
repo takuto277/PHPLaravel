@@ -5,6 +5,6 @@
     <title>動作確認</title>
 </head>
 <body>
-    <h1><?phpprint ("Docker test");?></h1>
+    <h1>"Docker test"</h1>
 </body>
 </html>
