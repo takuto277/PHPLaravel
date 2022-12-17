@@ -6,5 +6,9 @@
 </head>
 <body>
     <h1>"Docker test"</h1>
+    <?php
+echo "Hello World!";
+
+?>
 </body>
 </html>
